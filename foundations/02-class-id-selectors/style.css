@@ -1,0 +1,23 @@
+div {
+    
+  }
+  
+  p {
+    background-color: pink;
+    font-family: Verdana, sans-serif;
+
+
+  }
+  #odd {
+    font-size: 24px;
+  }
+  #num2 {
+    font-size: 36px;
+    color: blue;
+  }
+  #num4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+
+  }
