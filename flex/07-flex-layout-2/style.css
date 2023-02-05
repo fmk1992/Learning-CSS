@@ -63,21 +63,15 @@ a{
 }
 
 .container1{
+  padding: 32px;
   display: flex;
+  
   flex-wrap: wrap;
-  justify-content: space-between;
-  margin: 20px;
-  padding: 20px;
 }
 
-.content{
-  padding: 1px;
-  display: flex;
-  flex-wrap: wrap;
-  width: 400px;
-  }
-
 .card{
- display: flex;
- margin: 16px;
- }
+ margin: 10px;
+ width: 300px;
+ padding: 10px;
+
+}
